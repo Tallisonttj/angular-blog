@@ -1,0 +1,26 @@
+.container-small-card{
+  width: 700px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.small-card__title h1{
+  font-size: 25px;
+  text-align: justify;
+  width: 100%;
+}
+
+.small-card__news p{
+  color: grey;
+  font-size: 15px;
+  text-align: justify;
+}
+.small-card__img img
+{
+  width: 100%;
+  min-width: 400px
+}
+.infos{
+  margin-bottom: 0px;
+}
