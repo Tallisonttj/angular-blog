@@ -16,10 +16,11 @@
   font-size: 15px;
   text-align: justify;
 }
-.small-card__img img
+.small-card-img img
 {
   width: 100%;
-  min-width: 400px
+  min-width: 300px;
+  min-height: 150px;
 }
 .infos{
   margin-bottom: 0px;
